@@ -13,4 +13,4 @@ It includes the following key points:
 - Generating hash of full node structure
 - Finding longest chain of genesis node
 - Finding longest chain of given node
-- Many moree features
+- Many more features
